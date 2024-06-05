@@ -1,5 +1,14 @@
 <h1 align="center">Projeto final - AWS UNICESUMAR</h1>
 
+![GitHub License](https://img.shields.io/github/license/ValmirSGama/Projeto-final-AWS-UNICESUMAR)
+![GitHub repo size](https://img.shields.io/github/repo-size/ValmirSGama/Projeto-final-AWS-UNICESUMAR)
+
+#### Membros da Equipe:
+[![Valmir Sales](https://img.shields.io/badge/Valmir%20Sales-gray?style=flat-square&logo=github&logoColor=white&logoWidth=20&link=https://github.com/ValmirSGama)](https://github.com/ValmirSGama)
+[![WELLYGNTON CHAVES](https://img.shields.io/badge/Wellygnton%20Chaves-gray?style=flat-square&logo=github&logoColor=white&logoWidth=20&link=https://github.com/wellmattos23)](https://github.com/wellmattos23)
+[![Wanderson Felipe](https://img.shields.io/badge/Wanderson%20Felipe-gray?style=flat-square&logo=github&logoColor=white&logoWidth=20&link=https://github.com/FelipeOliveira1019)](https://github.com/FelipeOliveira1019)
+
+
 ### Projeto Cloud Aws
 **Instruções**
 
