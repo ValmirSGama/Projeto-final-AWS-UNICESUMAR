@@ -1,6 +1,6 @@
 <h1 align="center">Projeto final - AWS UNICESUMAR</h1>
 
-![GitHub License](https://img.shields.io/github/license/ValmirSGama/Projeto-final-AWS-UNICESUMAR?tab=MIT-1-ov-file)
+[![GitHub License](https://img.shields.io/npm/l/react)](https://github.com/ValmirSGama/Projeto-final-AWS-UNICESUMAR/blob/main/LICENSE) 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ValmirSGama/Projeto-final-AWS-UNICESUMAR)
 
 #### Membros da Equipe:
