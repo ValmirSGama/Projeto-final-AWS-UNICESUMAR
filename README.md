@@ -85,3 +85,11 @@ Essa proposta visa garantir escalabilidade, alta disponibilidade, e segurança p
 * https://docs.aws.amazon.com/eks/latest/userguide/aws-load-balancer-controller.html
 * https://docs.aws.amazon.com/eks/latest/userguide/network-load-balancing.html
 * https://docs.aws.amazon.com/AmazonRDS/latest/UserGuide/multi-az-db-clusters-concepts.html
+
+---
+
+* Projeto criando durante o programa de bolsas da Compass UOL em parceria com a Unicesumar no mês: 06/2024
+
+![Compass UOL](Resource/Compass_resized.jpg)
+
+![UniCessumar](Resource/logo-unicesumar.png)
